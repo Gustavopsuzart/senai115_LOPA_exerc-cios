@@ -11,6 +11,7 @@ while contAlunos <=qtdAlunos:
     print('#########################')
     print(f'Aluno {contAlunos}')
 
+
     notaUm = int(input('insira a primeira nota do aluno'))
     notaDois = int(input('insira a segunda nota do aluno'))
 
